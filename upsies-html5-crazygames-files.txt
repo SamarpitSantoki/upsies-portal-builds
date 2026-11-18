@@ -1,0 +1,23 @@
+# Upsies CrazyGames build, flat file list (source commit f9aa074)
+# path<TAB>download URL. Keep the paths as they are: index.html at the root.
+_expo/static/js/web/index-d55e3433031fdc920586745107730bd5.js	https://raw.githubusercontent.com/SamarpitSantoki/upsies-portal-builds/main/crazygames/_expo/static/js/web/index-d55e3433031fdc920586745107730bd5.js
+_expo/static/js/web/module-1a9445bbc9cca4c639dce05fe4f358bc.js	https://raw.githubusercontent.com/SamarpitSantoki/upsies-portal-builds/main/crazygames/_expo/static/js/web/module-1a9445bbc9cca4c639dce05fe4f358bc.js
+assets/assets/sounds/bonk.7053729066c4d26a36b0183261524abd.wav	https://raw.githubusercontent.com/SamarpitSantoki/upsies-portal-builds/main/crazygames/assets/assets/sounds/bonk.7053729066c4d26a36b0183261524abd.wav
+assets/assets/sounds/ding.9b636598107773c9664cbcc5b2a53b30.wav	https://raw.githubusercontent.com/SamarpitSantoki/upsies-portal-builds/main/crazygames/assets/assets/sounds/ding.9b636598107773c9664cbcc5b2a53b30.wav
+assets/assets/sounds/ding1.9b636598107773c9664cbcc5b2a53b30.wav	https://raw.githubusercontent.com/SamarpitSantoki/upsies-portal-builds/main/crazygames/assets/assets/sounds/ding1.9b636598107773c9664cbcc5b2a53b30.wav
+assets/assets/sounds/ding2.479c68849363aa9b259300c691cd9fb9.wav	https://raw.githubusercontent.com/SamarpitSantoki/upsies-portal-builds/main/crazygames/assets/assets/sounds/ding2.479c68849363aa9b259300c691cd9fb9.wav
+assets/assets/sounds/ding3.bcda328a4938401f7d0ae720018ff273.wav	https://raw.githubusercontent.com/SamarpitSantoki/upsies-portal-builds/main/crazygames/assets/assets/sounds/ding3.bcda328a4938401f7d0ae720018ff273.wav
+assets/assets/sounds/ding4.eb086ff81b67f74f8a8e8645c850babd.wav	https://raw.githubusercontent.com/SamarpitSantoki/upsies-portal-builds/main/crazygames/assets/assets/sounds/ding4.eb086ff81b67f74f8a8e8645c850babd.wav
+assets/assets/sounds/ding5.19d2554ee73b92167c6192a7a1649c68.wav	https://raw.githubusercontent.com/SamarpitSantoki/upsies-portal-builds/main/crazygames/assets/assets/sounds/ding5.19d2554ee73b92167c6192a7a1649c68.wav
+assets/assets/sounds/fanfare.865948a3104fa7e6453a958dd21d1bf4.wav	https://raw.githubusercontent.com/SamarpitSantoki/upsies-portal-builds/main/crazygames/assets/assets/sounds/fanfare.865948a3104fa7e6453a958dd21d1bf4.wav
+assets/assets/sounds/rise.fc345b1d35aebd6dc852f6b93bda0633.wav	https://raw.githubusercontent.com/SamarpitSantoki/upsies-portal-builds/main/crazygames/assets/assets/sounds/rise.fc345b1d35aebd6dc852f6b93bda0633.wav
+assets/assets/sounds/tap.b5943c990e25a31d750a05697a0a2a5d.wav	https://raw.githubusercontent.com/SamarpitSantoki/upsies-portal-builds/main/crazygames/assets/assets/sounds/tap.b5943c990e25a31d750a05697a0a2a5d.wav
+assets/assets/sounds/thud.3df41b3e3eb29c442798d27952e5f7e2.wav	https://raw.githubusercontent.com/SamarpitSantoki/upsies-portal-builds/main/crazygames/assets/assets/sounds/thud.3df41b3e3eb29c442798d27952e5f7e2.wav
+assets/assets/sounds/tick.f4c565264641bc66da4dde772ec06491.wav	https://raw.githubusercontent.com/SamarpitSantoki/upsies-portal-builds/main/crazygames/assets/assets/sounds/tick.f4c565264641bc66da4dde772ec06491.wav
+assets/assets/sounds/whoosh.9bd502a1c635d3d4a83413c833bf7b42.wav	https://raw.githubusercontent.com/SamarpitSantoki/upsies-portal-builds/main/crazygames/assets/assets/sounds/whoosh.9bd502a1c635d3d4a83413c833bf7b42.wav
+assets/fonts/AtkinsonHyperlegible_400Regular.59f0f5543754fa6b68a563036eafaaab.ttf	https://raw.githubusercontent.com/SamarpitSantoki/upsies-portal-builds/main/crazygames/assets/fonts/AtkinsonHyperlegible_400Regular.59f0f5543754fa6b68a563036eafaaab.ttf
+assets/fonts/AtkinsonHyperlegible_700Bold.f2193e9c742b9554852a3000f0ccdc9c.ttf	https://raw.githubusercontent.com/SamarpitSantoki/upsies-portal-builds/main/crazygames/assets/fonts/AtkinsonHyperlegible_700Bold.f2193e9c742b9554852a3000f0ccdc9c.ttf
+assets/fonts/Caprasimo_400Regular.54cc2fb9aeecccedde96c183678cbdd8.ttf	https://raw.githubusercontent.com/SamarpitSantoki/upsies-portal-builds/main/crazygames/assets/fonts/Caprasimo_400Regular.54cc2fb9aeecccedde96c183678cbdd8.ttf
+favicon.ico	https://raw.githubusercontent.com/SamarpitSantoki/upsies-portal-builds/main/crazygames/favicon.ico
+favicon.png	https://raw.githubusercontent.com/SamarpitSantoki/upsies-portal-builds/main/crazygames/favicon.png
+index.html	https://raw.githubusercontent.com/SamarpitSantoki/upsies-portal-builds/main/crazygames/index.html
